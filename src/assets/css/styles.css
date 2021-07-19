@@ -1,0 +1,32 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: rgb(33, 37, 41);
+	color: #fff;
+}
+
+a:link {
+	color: green;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:active {
+	color: yellow;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+.navbar-nav {
+	margin-left: auto;
+}
